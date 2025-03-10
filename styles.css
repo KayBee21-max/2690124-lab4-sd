@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    
+}
+
+input, button {
+    color: darkmagenta;
+    margin: 10px;
+    padding: 8px;
+}
+
+#country-info, #bordering-countries {
+    margin-top: 20px;
+    color: purple;
+}
